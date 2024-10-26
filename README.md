@@ -44,8 +44,6 @@ I'm currently a final-year Embedded Systems Engineering student seeking a final-
 ![Android Studio](https://img.shields.io/badge/AndroidStudio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Houssem70&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Houssem70&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Houssem70&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
