@@ -1,5 +1,5 @@
 # 🔅 About Me:
-I'm currently a final-year Embedded Systems Engineering student seeking a final-year internship.
+I'm currently a final-year Embedded Systems Engineering student seeking an end of studies internship.
 
 
 ## 🌐 Socials:
