@@ -1,5 +1,5 @@
 # 🔅 About Me:
-I'm currently a final-year Embedded Systems Engineering student seeking an end of studies internship.
+As a final-year Embedded Systems Engineering student, I thrive on exploring the intersection of hardware and software to create innovative solutions. Passionate about emerging technologies and the ever-evolving world of IoT, AI, and robotics, I find joy in tackling complex challenges and turning ideas into reality. Whether it's diving deep into real-time systems, optimizing embedded software, or experimenting with new tools, I’m always eager to learn and push boundaries. 
 
 
 ## 🌐 Socials:
