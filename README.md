@@ -1,5 +1,5 @@
 # 🔅 About Me:
-As a final-year Embedded Systems Engineering student, I thrive on exploring the intersection of hardware and software to create innovative solutions. Passionate about emerging technologies and the ever-evolving world of IoT, AI, and robotics, I find joy in tackling complex challenges and turning ideas into reality. Whether it's diving deep into real-time systems, optimizing embedded software, or experimenting with new tools, I’m always eager to learn and push boundaries. 
+Fresh graduate Embedded Software Engineer with hands‑on expertise in embedded Linux, RTOS and bare‑metal development. In my final internship, I spearheaded the migration of an industrial vision solution from Windows to Linux and crafted a Yocto‑based image for Raspberry Pi, which deepened my understanding of Linux kernel internals, Yocto build workflows and ARM cross‑compilation toolchains while giving me real‑world embedded Linux deployment experience. I advance my expertise through hands‑on projects, advanced tutorials and technical reading, and thrive on tackling complex challenges in collaborative settings. Passionate about driving innovation in embedded software, I’m ready to make an immediate impact on a forward‑thinking team.
 
 
 ## 🌐 Socials:
